@@ -1,0 +1,21 @@
+header {
+    background-color: #673ab7; /* purple header*/
+    color: #fff; /* White text */
+    font-family: Roboto, Arial, sans-serif; /* Roboto font*/
+}
+
+main {
+    max-width: 800px; 
+    margin: 0 auto; /* Centers everything */
+}
+
+article {
+    margin-bottom: 20px; /* gives some space between posts */
+}
+
+footer {
+    background-color: #f8f9fa; /* grey */
+    padding: 10px; /* gives 10 pixels of space around the entire footer*/
+    text-align: center; /* centers text*/
+}
+
